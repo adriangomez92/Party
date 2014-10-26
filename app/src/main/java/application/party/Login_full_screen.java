@@ -21,7 +21,7 @@ public class Login_full_screen extends Activity {
     /**
      * Whether or not the system UI should be auto-hidden after
      * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
-     */
+     */df
     private static final boolean AUTO_HIDE = true;
 
     /**
