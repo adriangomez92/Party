@@ -36,7 +36,7 @@ public class PruebaBBDD extends ActionBarActivity {
                 JSONObject json = null;
                 try{
                     json = jsonArray.getJSONObject(i);
-                    s = s + "Name : "+json.getString("FirstName")+" "+json.getString("LastName")+"\n"+
+                    s = s + "Name : "+json.getString("First_Name")+" "+json.getString("Last_Name")+"\n"+
                             "Age : "+json.getString("Age")+"\n";
 
                 }catch (JSONException e){e.printStackTrace();}

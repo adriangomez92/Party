@@ -147,7 +147,6 @@ public class Login_full_screen extends Activity {
             startActivity(i);
             }
         });
-
     }
 
     @Override
