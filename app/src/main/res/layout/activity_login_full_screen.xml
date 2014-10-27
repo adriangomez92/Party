@@ -41,6 +41,13 @@
                 android:text="@string/dummy_button" />
 
         </LinearLayout>
+
+        <Button
+            android:layout_width="224dp"
+            android:layout_height="124dp"
+            android:text="ConsultaBBDD"
+            android:id="@+id/btConsulta"
+            android:layout_gravity="center" />
     </FrameLayout>
 
 </FrameLayout>
