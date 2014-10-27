@@ -27,7 +27,7 @@ public class PruebaBBDD extends ActionBarActivity {
 
         }
 
-
+        //esto es una prueba de commit
         public void setTextToTextView(JSONArray jsonArray){
 
             String s = "";
